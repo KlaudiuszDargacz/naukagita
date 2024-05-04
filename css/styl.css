@@ -3,3 +3,8 @@ body
     background-color: black;
 
 }
+h1
+{
+    color: gray;
+    font-size: 19px;
+}
